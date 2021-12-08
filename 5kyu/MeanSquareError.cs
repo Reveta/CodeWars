@@ -18,9 +18,9 @@ namespace CodeWars._5kyu {
 				.Sum() / firstArray.Length;
 		}
 		
-		public static void Main(string[] args) {
-			double solution = Solution(new int[] {1, 2, 3}, new int[] {4, 5, 6});
-			Console.WriteLine(solution);
-		}
+		// public static void Main(string[] args) {
+		// 	double solution = Solution(new int[] {1, 2, 3}, new int[] {4, 5, 6});
+		// 	Console.WriteLine(solution);
+		// }
 	}
 }
