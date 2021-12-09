@@ -39,18 +39,5 @@ namespace CodeWars._8kyu {
 			"not at all"
 		};
 
-		public static void Main(string[] args) {
-			Console.WriteLine(HowMuchILoveYou(7));
-			// Console.WriteLine(HowMuchILoveYou(44911));
-			// Console.WriteLine(HowMuchILoveYou(0));
-			// Console.WriteLine(HowMuchILoveYou(7000));
-			// Console.WriteLine(HowMuchILoveYou(-1));
-			// Console.WriteLine();
-			// Console.WriteLine(HowMuchILoveYou(18900));
-			// Console.WriteLine(HowMuchILoveYou(-100));
-			// Console.WriteLine(HowMuchILoveYou(-1));
-			// Console.WriteLine(HowMuchILoveYou(4));
-			// Console.WriteLine(HowMuchILoveYou(15));
-		}
 	}
 }
